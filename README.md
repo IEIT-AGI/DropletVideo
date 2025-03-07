@@ -1,4 +1,3 @@
-<div align="center">
 
 ### <div align="center"> DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal Consistent Video Generation <div> 
 <div align="center">
