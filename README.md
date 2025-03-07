@@ -2,10 +2,17 @@
 
 ### <div align="center"> DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal Consistent Video Generation <div> 
 <div align="center">
-  <a href="![image](https://github.com/user-attachments/assets/8f314521-d36e-4941-b32e-e97336c3fc28)></a> &ensp;
-  <a href="https://arxiv.org/abs/2407.02371"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
-  <a href="https://huggingface.co/datasets/DropletX/DropletVideo-10M"><img src="https://img.shields.io/static/v1?label=Dataset&message=HuggingFace&color=yellow"></a> &ensp;
+  <a href="assets/DropletVideo-10M-logo.png">
+    <img src="assets/DropletVideo-10M-logo.png" alt="DropletVideo Logo" width="100">
+  </a> &ensp;
+  <a href="https://arxiv.org/abs/2407.02371">
+    <img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv">
+  </a> &ensp;
+  <a href="https://huggingface.co/datasets/DropletX/DropletVideo-10M">
+    <img src="https://img.shields.io/static/v1?label=Dataset&message=HuggingFace&color=yellow">
+  </a>
 </div>
+
 
 
 
