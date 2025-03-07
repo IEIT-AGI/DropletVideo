@@ -19,7 +19,6 @@
       <img src="https://img.shields.io/static/v1?label=DropletVideo-1M&message=HuggingFace&color=yellow">
     </a>
 
-English | [简体中文](README_zh-CN.md)
 </div>
 
 
