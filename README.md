@@ -8,9 +8,7 @@
   <a href="https://nju-pcalab.github.io/projects/dropletvideo/"><img src="https://img.shields.io/static/v1?label=DropletVideo-10M&message=Project&color=purple"></a> &ensp;
   <a href="https://arxiv.org/abs/2407.02371"><img src="https://img.shields.io/static/v1?label=Paper&message=Arxiv&color=red&logo=arxiv"></a> &ensp;
   <a href="https://huggingface.co/datasets/DropletX/DropletVideo-10M"><img src="https://img.shields.io/static/v1?label=Dataset&message=HuggingFace&color=yellow"></a>
-</div>
 
-<br>
 English | [简体中文](README_zh-CN.md)
 </div>
 
