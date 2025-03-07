@@ -4,7 +4,7 @@
 
 
 
-### <div align="center">  DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal Consistent Video Generation <div> 
+
 <div style="display: flex; justify-content: center; gap: 15px;">
     <a href="https://dropletx.github.io">
       <img src="https://img.shields.io/static/v1?label=DropletX&message=Project&color=purple">
