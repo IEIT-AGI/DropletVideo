@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/DropletVideo-10M-logo.png"  height=360>
+  <img src="assets/DropletVideo-10M-logo.png"  height=540>
 </p>
 
 
