@@ -25,7 +25,7 @@
 
 ## ✈️ Introduction
 
-**DropletVideo** is a project exploring high-order spatio-temporal consistency in image-to-video generation. It is trained on [DropletVideo-10M](https://huggingface.co/datasets/DropletX/DropletVideo-10M). The model supports multi-resolution inputs, dynamic FPS control for motion intensity, and demonstrates potential for 3D consistency. The model supports multi-resolution inputs, dynamic FPS control for motion intensity, and demonstrates potential for 3D consistency. For further details, you can check our [project page](https://dropletx.github.io/) as well as the [technical report](https://arxiv.org/abs/2407.02371).
+**DropletVideo** is a project exploring high-order spatio-temporal consistency in image-to-video generation. It is trained on [DropletVideo-10M](https://huggingface.co/datasets/DropletX/DropletVideo-10M). The model supports multi-resolution inputs, dynamic FPS control for motion intensity, and demonstrates potential for 3D consistency. The model supports multi-resolution inputs, dynamic FPS control for motion intensity, and demonstrates potential for 3D consistency. For further details, you can check our [project page](https://dropletx.github.io/) as well as the [technical report](https://arxiv.org/abs/2503.06053).
 
 
 ## 🔥 Features
