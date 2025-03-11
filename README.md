@@ -171,15 +171,29 @@ This project leverages the following open-source frameworks. We appreciate their
 - [**Open-Sora-Plan**](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - Data processing
 - [**Open-Sora**](https://github.com/hpcaitech/Open-Sora) - Extra control
 
-
-
-
 <br>
+
+
+## Citation
+
+🌟 If you find our work helpful, please leave us a star and cite our paper.
+
+```
+@article{zhang2025dropletvideo,
+        title={DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal Consistent Video Generation},
+        author={Zhang, Runze and Du, Guoguang and Li, Xiaochuan and Jia, Qi and Jin, Liang and Liu, Lu and Wang, Jingjing and Xu, Cong and Guo, Zhenhua and Zhao, Yaqian and Gong, Xiaoli and Li, Rengang and Fan, Baoyu},
+        journal={arXiv preprint arXiv:2503.06053},
+        year={2025}
+      }
+```
+
+
 
 ## ☎️ Contact us
 If you have any questions, comments, or suggestions, please contact us at [zrzsgsg@gmail.com](mailto:zrzsgsg@gmail.com).
 
 <br>
+
 
 ## 📄 License
 This project is released under the [Apache 2.0 license](resources/LICENSE).
