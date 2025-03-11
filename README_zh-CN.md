@@ -28,7 +28,7 @@
 
 ## ✈️ 介绍
 
-**DropletVideo** 是一个探索图像到视频生成中高阶时空一致性的项目。该模型在 DropletVideo-10M 数据集上训练，支持多分辨率输入、动态 FPS 控制以调整运动强度，并展现出 3D 一致性的潜力。更多详情请查看我们的 [项目页面](https://dropletx.github.io/) 以及 [技术报告](https://huggingface.co/datasets/DropletX/DropletVideo-10M)。
+**DropletVideo** 是一个探索图像到视频生成中高阶时空一致性的项目。该模型在 DropletVideo-10M 数据集上训练，支持多分辨率输入、动态 FPS 控制以调整运动强度，并展现出 3D 一致性的潜力。更多详情请查看我们的 [项目页面](https://dropletx.github.io/) 以及 [技术报告](https://arxiv.org/abs/2503.06053)。
 
 ## 🔥 特色
 
