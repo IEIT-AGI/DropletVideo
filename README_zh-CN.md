@@ -156,6 +156,20 @@ DropletVideo 可支持任意分辨率输入（当前版本未添加自动填充�
 - [**Open-Sora-Plan**](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - 数据处理
 - [**Open-Sora**](https://github.com/hpcaitech/Open-Sora) - 额外控制
 
+## 引用
+
+🌟 如果您发现我们的工作有所帮助，欢迎引用我们的文章，留下宝贵的stars
+
+```
+@article{zhang2025dropletvideo,
+        title={DropletVideo: A Dataset and Approach to Explore Integral Spatio-Temporal Consistent Video Generation},
+        author={Zhang, Runze and Du, Guoguang and Li, Xiaochuan and Jia, Qi and Jin, Liang and Liu, Lu and Wang, Jingjing and Xu, Cong and Guo, Zhenhua and Zhao, Yaqian and Gong, Xiaoli and Li, Rengang and Fan, Baoyu},
+        journal={arXiv preprint arXiv:2503.06053},
+        year={2025}
+      }
+```
+
+
 ## ☎️ 联系我们
 如果有任何问题或建议，请联系 [zrzsgsg@gmail.com](mailto:zrzsgsg@gmail.com)。
 
