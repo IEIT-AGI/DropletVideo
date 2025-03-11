@@ -24,13 +24,7 @@
 <br>
 
 
-<div align="center">
 
-# DropletVideo
-[English](README.md) | 简体中文
-</div>
-
-<br>
 
 ## ✈️ 介绍
 
